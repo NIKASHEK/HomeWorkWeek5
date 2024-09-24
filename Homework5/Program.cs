@@ -4,12 +4,13 @@
     {
         static void Main(string[] args)
         {
-            // 4
+            // 5
             var x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
-            for (int i = 1; i < 10; i++)
+            for (int i = 2; i < x; i++)
             {
-                Console.WriteLine(x * i);
+                if(i % 2 == 0)
+                    Console.WriteLine(i * i);
             }
         }
     }
