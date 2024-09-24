@@ -4,15 +4,13 @@
     {
         static void Main(string[] args)
         {
-            // 3
-            var x = Console.ReadLine();
-            var y = Console.ReadLine();
-            var someInt = x;
-            x = y;
-            y = someInt;
+            // 4
+            var x = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
-            Console.WriteLine(x);
-            Console.WriteLine(y);
+            for (int i = 1; i < 10; i++)
+            {
+                Console.WriteLine(x * i);
+            }
         }
     }
 }
