@@ -12,3 +12,4 @@ C:\Users\nshek\source\repos\Homework5\Homework5\obj\Debug\net8.0\refint\Homework
 C:\Users\nshek\source\repos\Homework5\Homework5\obj\Debug\net8.0\Homework5.pdb
 C:\Users\nshek\source\repos\Homework5\Homework5\obj\Debug\net8.0\Homework5.genruntimeconfig.cache
 C:\Users\nshek\source\repos\Homework5\Homework5\obj\Debug\net8.0\ref\Homework5.dll
+C:\Users\nshek\source\repos\Homework5\Homework5\obj\Debug\net8.0\Homework5.sourcelink.json
